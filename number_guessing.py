@@ -24,6 +24,7 @@ while True:
 
     # Process valid turn increment
     attempts += 1
+    print(f"Attempts so far: {attempts}")
 
     # Evaluate game loop termination metrics
     if guess < target_number:
