@@ -1,8 +1,7 @@
 Number Guessing Game 🎯
 
 ## What I Learned
-- Python loops and conditional statements
-
+ Python loops and conditional statements
 📌 Project Description
 
 The Number Guessing Game is a simple Python-based game in which the computer selects a random number, and the player tries to guess it. After each guess, the program provides hints to help the player find the correct number.
